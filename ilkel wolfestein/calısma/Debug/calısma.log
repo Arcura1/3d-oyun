@@ -1,0 +1,30 @@
+﻿  Kaynak.cpp
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(15,23): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(75,53): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(76,53): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(78,54): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(79,54): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(85,53): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(86,53): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(88,54): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(89,54): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(94,35): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(97,37): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(100,32): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(100,67): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(101,32): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(101,67): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(103,33): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(103,68): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(104,33): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(104,68): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(108,32): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(108,67): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(109,32): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(109,67): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(111,33): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(111,68): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(112,33): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(112,68): warning C4244: '-=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\calısma\Kaynak.cpp(151,17): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  calısma.vcxproj -> C:\Users\TOSHIBA\Desktop\visual çalışma\Yeni klasör (2)\yeni dönem\ilkel wolfestein\Debug\calısma.exe
